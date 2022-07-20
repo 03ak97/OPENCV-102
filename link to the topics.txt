@@ -1,0 +1,21 @@
+LINK = pyimagesearch.mykajabi.com/products/pyimagesearch-university-full-access-plan/categories/4663336/posts/15669928
+
+9 Lessons
+
+https://www.pyimagesearch.com/2021/04/28/opencv-morphological-operations/?_ga=2.72642518.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2021/04/28/opencv-smoothing-and-blurring/?_ga=2.252961228.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2021/04/28/opencv-color-spaces-cv2-cvtcolor/?_ga=2.252961228.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2021/04/28/opencv-thresholding-cv2-threshold/?_ga=2.252961228.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2021/05/12/adaptive-thresholding-with-opencv-cv2-adaptivethreshold/?_ga=2.245113792.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/?_ga=2.245113792.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2021/05/12/image-gradients-with-opencv-sobel-and-scharr/?_ga=2.245113792.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2021/05/12/opencv-edge-detection-cv2-canny?_ga=2.245548737.412936894.1637214319-38471892.1636629212
+
+https://www.pyimagesearch.com/2015/04/06/zero-parameter-automatic-canny-edge-detection-with-python-and-opencv/?_ga=2.245548737.412936894.1637214319-38471892.1636629212
